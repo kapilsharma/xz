@@ -1,0 +1,209 @@
+Working on 'test500000' table
+Starting watches: total and getCount
+Getting total rows.
+Row count took 0.0025050640106201 seconds. Total rows: 500000
+Starting 'prepare' watch.
+'Prepare' took 1.0013580322266E-5 seconds.
+Starting loop
+Starting loop1
+Ending loop1. Took 0.25982284545898 seconds.
+Starting loop2
+Ending loop2. Took 0.34397721290588 seconds.
+Starting loop3
+Ending loop3. Took 0.37623405456543 seconds.
+Starting loop4
+Ending loop4. Took 0.39685010910034 seconds.
+Starting loop5
+Ending loop5. Took 0.39110684394836 seconds.
+Starting loop6
+Ending loop6. Took 0.43165707588196 seconds.
+Starting loop7
+Ending loop7. Took 0.46762800216675 seconds.
+Starting loop8
+Ending loop8. Took 0.50266790390015 seconds.
+Starting loop9
+Ending loop9. Took 0.54011797904968 seconds.
+Starting loop10
+Ending loop10. Took 0.57556891441345 seconds.
+Starting loop11
+Ending loop11. Took 0.61191082000732 seconds.
+Starting loop12
+Ending loop12. Took 0.64270615577698 seconds.
+Starting loop13
+Ending loop13. Took 0.67564797401428 seconds.
+Starting loop14
+Ending loop14. Took 0.70983815193176 seconds.
+Starting loop15
+Ending loop15. Took 0.74545812606812 seconds.
+Starting loop16
+Ending loop16. Took 0.78014302253723 seconds.
+Starting loop17
+Ending loop17. Took 0.81607794761658 seconds.
+Starting loop18
+Ending loop18. Took 0.85239386558533 seconds.
+Starting loop19
+Ending loop19. Took 0.89481401443481 seconds.
+Starting loop20
+Ending loop20. Took 0.91965103149414 seconds.
+Starting loop21
+Ending loop21. Took 0.956130027771 seconds.
+Starting loop22
+Ending loop22. Took 0.99381303787231 seconds.
+Starting loop23
+Ending loop23. Took 1.0303030014038 seconds.
+Starting loop24
+Ending loop24. Took 1.0581610202789 seconds.
+Starting loop25
+Ending loop25. Took 1.0921518802643 seconds.
+Starting loop26
+Ending loop26. Took 1.1235089302063 seconds.
+Starting loop27
+Ending loop27. Took 1.1623940467834 seconds.
+Starting loop28
+Ending loop28. Took 1.1994841098785 seconds.
+Starting loop29
+Ending loop29. Took 1.2328479290009 seconds.
+Starting loop30
+Ending loop30. Took 1.2718441486359 seconds.
+Starting loop31
+Ending loop31. Took 1.3070139884949 seconds.
+Starting loop32
+Ending loop32. Took 1.3438141345978 seconds.
+Starting loop33
+Ending loop33. Took 1.4162700176239 seconds.
+Starting loop34
+Ending loop34. Took 1.4635081291199 seconds.
+Starting loop35
+Ending loop35. Took 1.5149800777435 seconds.
+Starting loop36
+Ending loop36. Took 1.6594870090485 seconds.
+Starting loop37
+Ending loop37. Took 1.5838258266449 seconds.
+Starting loop38
+Ending loop38. Took 1.623214006424 seconds.
+Starting loop39
+Ending loop39. Took 1.6567101478577 seconds.
+Starting loop40
+Ending loop40. Took 1.6990749835968 seconds.
+Starting loop41
+Ending loop41. Took 1.7367250919342 seconds.
+Starting loop42
+Ending loop42. Took 1.7711229324341 seconds.
+Starting loop43
+Ending loop43. Took 1.8050620555878 seconds.
+Starting loop44
+Ending loop44. Took 1.8479559421539 seconds.
+Starting loop45
+Ending loop45. Took 1.8853387832642 seconds.
+Starting loop46
+Ending loop46. Took 1.921364068985 seconds.
+Starting loop47
+Ending loop47. Took 1.956197977066 seconds.
+Starting loop48
+Ending loop48. Took 1.9916341304779 seconds.
+Starting loop49
+Ending loop49. Took 2.0303139686584 seconds.
+Starting loop50
+Ending loop50. Took 2.0636489391327 seconds.
+Starting loop51
+Ending loop51. Took 2.1025700569153 seconds.
+Starting loop52
+Ending loop52. Took 2.1364889144897 seconds.
+Starting loop53
+Ending loop53. Took 2.1805548667908 seconds.
+Starting loop54
+Ending loop54. Took 2.2124161720276 seconds.
+Starting loop55
+Ending loop55. Took 2.2538650035858 seconds.
+Starting loop56
+Ending loop56. Took 2.2894351482391 seconds.
+Starting loop57
+Ending loop57. Took 2.3219151496887 seconds.
+Starting loop58
+Ending loop58. Took 2.3661830425262 seconds.
+Starting loop59
+Ending loop59. Took 2.3996779918671 seconds.
+Starting loop60
+Ending loop60. Took 2.4395968914032 seconds.
+Starting loop61
+Ending loop61. Took 2.4726939201355 seconds.
+Starting loop62
+Ending loop62. Took 2.5092861652374 seconds.
+Starting loop63
+Ending loop63. Took 2.5443618297577 seconds.
+Starting loop64
+Ending loop64. Took 2.5825262069702 seconds.
+Starting loop65
+Ending loop65. Took 2.6236100196838 seconds.
+Starting loop66
+Ending loop66. Took 2.6602289676666 seconds.
+Starting loop67
+Ending loop67. Took 2.6976430416107 seconds.
+Starting loop68
+Ending loop68. Took 2.7360248565674 seconds.
+Starting loop69
+Ending loop69. Took 2.7712211608887 seconds.
+Starting loop70
+Ending loop70. Took 2.8112940788269 seconds.
+Starting loop71
+Ending loop71. Took 2.8999989032745 seconds.
+Starting loop72
+Ending loop72. Took 3.030797958374 seconds.
+Starting loop73
+Ending loop73. Took 3.0620949268341 seconds.
+Starting loop74
+Ending loop74. Took 3.1046509742737 seconds.
+Starting loop75
+Ending loop75. Took 3.1425540447235 seconds.
+Starting loop76
+Ending loop76. Took 3.1817119121552 seconds.
+Starting loop77
+Ending loop77. Took 3.1457931995392 seconds.
+Starting loop78
+Ending loop78. Took 3.1866400241852 seconds.
+Starting loop79
+Ending loop79. Took 3.1418089866638 seconds.
+Starting loop80
+Ending loop80. Took 3.182051897049 seconds.
+Starting loop81
+Ending loop81. Took 3.2155289649963 seconds.
+Starting loop82
+Ending loop82. Took 3.2543001174927 seconds.
+Starting loop83
+Ending loop83. Took 3.2970108985901 seconds.
+Starting loop84
+Ending loop84. Took 3.3291947841644 seconds.
+Starting loop85
+Ending loop85. Took 3.3580169677734 seconds.
+Starting loop86
+Ending loop86. Took 3.4044728279114 seconds.
+Starting loop87
+Ending loop87. Took 3.4364511966705 seconds.
+Starting loop88
+Ending loop88. Took 3.4752049446106 seconds.
+Starting loop89
+Ending loop89. Took 3.512405872345 seconds.
+Starting loop90
+Ending loop90. Took 3.548712015152 seconds.
+Starting loop91
+Ending loop91. Took 3.5819160938263 seconds.
+Starting loop92
+Ending loop92. Took 3.6218459606171 seconds.
+Starting loop93
+Ending loop93. Took 3.6557700634003 seconds.
+Starting loop94
+Ending loop94. Took 3.6901009082794 seconds.
+Starting loop95
+Ending loop95. Took 3.7326810359955 seconds.
+Starting loop96
+Ending loop96. Took 3.7715699672699 seconds.
+Starting loop97
+Ending loop97. Took 3.805154800415 seconds.
+Starting loop98
+Ending loop98. Took 3.8465211391449 seconds.
+Starting loop99
+Ending loop99. Took 3.8832321166992 seconds.
+Starting loop100
+Ending loop100. Took 3.9140808582306 seconds.
+loop ends. It took 208.86012887955 seconds.
+Ending total. Full script took 208.86272501945 seconds.

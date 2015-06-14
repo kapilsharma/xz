@@ -1,0 +1,29 @@
+Working on 'test50000' table
+Starting watches: total and getCount
+Getting total rows.
+Row count took 0.44955897331238 seconds. Total rows: 50000
+Starting 'prepare' watch.
+'Prepare' took 2.6941299438477E-5 seconds.
+Starting loop
+Starting loop1
+Ending loop1. Took 0.24794316291809 seconds.
+Starting loop2
+Ending loop2. Took 0.34147596359253 seconds.
+Starting loop3
+Ending loop3. Took 0.36697101593018 seconds.
+Starting loop4
+Ending loop4. Took 0.3917441368103 seconds.
+Starting loop5
+Ending loop5. Took 0.39418792724609 seconds.
+Starting loop6
+Ending loop6. Took 0.43930602073669 seconds.
+Starting loop7
+Ending loop7. Took 0.46217608451843 seconds.
+Starting loop8
+Ending loop8. Took 0.50399613380432 seconds.
+Starting loop9
+Ending loop9. Took 0.53733611106873 seconds.
+Starting loop10
+Ending loop10. Took 0.56414008140564 seconds.
+loop ends. It took 4.2497079372406 seconds.
+Ending total. Full script took 4.699450969696 seconds.
